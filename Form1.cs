@@ -16,7 +16,7 @@ namespace WinFormsApp1
 
         private void MessageButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Информационное сообщение", "Информация", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("РРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРµ СЃРѕРѕР±С‰РµРЅРёРµ", "РРЅС„РѕСЂРјР°С†РёСЏ", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         private void CreateFormBt_Click(object sender, EventArgs e)
         {
